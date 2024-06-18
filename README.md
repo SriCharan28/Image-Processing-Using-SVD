@@ -1,1 +1,1 @@
-# Image-Processing-Using-SVD
+This repository Performs Image Processing Operations in Python using Singular Value Decomposition .
